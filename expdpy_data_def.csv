@@ -1,0 +1,27 @@
+var_name,var_def,label,type,can_be_na
+region_num,Region Num,Region Num,entity,False
+region_id,Region Id,Region Id,entity,False
+year,Year,Year,time,False
+region_name,Region Name,Region Name,entity,False
+country,Country,Country,entity,False
+country_code,Country Code,Country Code,entity,False
+nuts_level,Nuts Level,Nuts Level,factor,True
+gdp_per_capita,Gdp Per Capita,Gdp Per Capita,numeric,True
+ln_gdp_pc,Ln Gdp Pc,Ln Gdp Pc,numeric,True
+manufacturing_pct_gdp,Manufacturing Pct Gdp,Manufacturing Pct Gdp,numeric,True
+ln_mfg,Ln Mfg,Ln Mfg,numeric,True
+routine_services_share_of_national_pct,Routine Services Share Of National Pct,Routine Services Share Of National Pct,numeric,True
+ln_routine,Ln Routine,Ln Routine,numeric,True
+kis_pct_employment,Kis Pct Employment,Kis Pct Employment,numeric,True
+ln_kis,Ln Kis,Ln Kis,numeric,True
+edu_tertiary_pct,Edu Tertiary Pct,Edu Tertiary Pct,numeric,True
+ln_edu_tertiary,Ln Edu Tertiary,Ln Edu Tertiary,numeric,True
+uhii,Uhii,Uhii,numeric,True
+ln_uhii,Ln Uhii,Ln Uhii,numeric,True
+cisi_mean,Cisi Mean,Cisi Mean,numeric,True
+cisi_std,Cisi Std,Cisi Std,numeric,True
+cisi_max,Cisi Max,Cisi Max,numeric,True
+cisi_min,Cisi Min,Cisi Min,numeric,True
+ln_CISI,Ln Cisi,Ln Cisi,numeric,True
+manufacturing_data_type,Manufacturing Data Type,Manufacturing Data Type,factor,True
+kis_data_type,Kis Data Type,Kis Data Type,factor,True
